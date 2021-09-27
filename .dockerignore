@@ -1,0 +1,18 @@
+# Version Control
+.git/
+.gitignore
+
+# IDE
+.idea/
+
+# CI
+.dockerignore
+Dockerfile
+Containerfile
+
+# dotnet
+*.sln
+./bin/
+./obj/
+./appsettings.Development.json
+./Properties/
