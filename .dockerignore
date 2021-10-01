@@ -1,6 +1,7 @@
 # Version Control
 .git/
 .gitignore
+README.md
 
 # IDE
 .idea/
